@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Schedule Gestib - IES EMILI DARDER</title>
+	<link rel="stylesheet" href="js/jquery-ui/jquery-ui.min.css" />
+	<link rel="stylesheet" href="css/schedule.css" />
+	<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' />
+
+</head>
+
+<body>
+	<header>
+		<div class="separator"></div>
+		<div id="title">Scheduler -IES EMILI DARDER</div>
+		<div class="separator"></div>
+	</header>
+
+	<div id="boxOperacions">
+		<button id="btn_taula_eq" class="ui-button ui-corner-all ui-widget "><span
+				class="ui-icon ui-icon-document"></span>Genera taules equivalències i XML importació horaris</button>
+	</div>
+
+	<div id="tabs">
+		<ul>
+			<li><a href="#tabs-2">Fitxer generat per importació Gestib</a></li>
+			<li><a href="#tabs-1">Taulas d'equivalències</a></li>
+			<li><a href="#tabs-3">Cerca sessió d'una plaça/professor (dev)</a></li>
+		</ul>
+		<div id="tabs-1">
+
+			<!-- Taules -->
+			<div id="accordion-resizer" class="ui-widget-content">
+				<div id="accordion">
+					<h3>Taula d'equivalències submatèries</h3>
+					<div>
+						<div id="submateriesTable">No carregada</div>
+					</div>
+					<h3>Taula Grups</h3>
+					<div>
+						<div id="grupsTable">No carregada</div>
+					</div>
+					<h3>Taula Aules</h3>
+					<div>
+						<div id="aulesTable">No carregada</div>
+					</div>
+					<h3>Places actives. Amb horari o sense horari</h3>
+					<div>
+						<div id="placesTable">No carregada</div>
+					</div>
+					<h3>Activitats no configurades</h3>
+					<div>
+						<div id="act-no-conf">No carregada</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<div id="tabs-2">
+			<!-- Fitxer gestib -->
+			<div>
+				<h2>Fitxer final pel gestib: </h2>
+				<div id="xml-gestib"></div>
+			</div>
+		</div>
+
+		<div id="tabs-3">
+			<!-- Sessions d'un professor -->
+			<div id="boxSessionsProfesor">
+				<h2>Sessions professor</h2>
+				<div>
+					<label for="">Abreviatura plaça</label>
+					<input type="text" name="camp-abr" id="camp-abr" placeholder="Per exemple INF2" />
+					<button type="button" onclick="cercaSessionsProfessor()">Cerca sessions</button>
+				</div>
+				<div id="sessions-profesor"></div>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		<div class="separator">&copy;Design SA</div>
+	</footer>
+
+	<script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+	<script src="js/jquery-ui/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
+
+	<script type="text/javascript" src="js/schedule.js"></script>
+	<script type="text/javascript" src="js/utils.js"></script>
+	<script>
+
+
+		$(document).ready(function () {
+
+			// Carrega incial de dades
+			loadFitxers();
+
+			// Components
+			$("#tabs").tabs();
+
+			$("#accordion").accordion({
+				heightStyle: "fill"
+			});
+
+			$("#accordion-resizer").resizable({
+				minHeight: 440,
+				minWidth: 200,
+				resize: function () {
+					$("#accordion").accordion("refresh");
+				}
+			});
+
+			// Accions de botons
+			$("#btn_taula_eq").click(
+				// Torna a generar les taules
+				function () {
+					generaTaulaEquivalencia(fGestibExportacioBase, fGestibExportacioActual);
+					generaTaulaEquivalenciaGrups(fGestibExportacioBase, fGestibExportacioActual);
+					generaTaulaEquivalenciaAules(fGestibExportacioBase, fGestibExportacioActual);
+					generaTaulaPlacesNoHorari();
+					//generaTaulaActNoConfigurades(fUntilsExportacioActual);
+					setXMLUntilsExportacio();
+					//setXMLUntilsExportacioDirecta();
+				}
+			);
+
+		});
+
+	</script>
+
+
+</body>
+
+</html>

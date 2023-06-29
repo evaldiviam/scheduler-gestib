@@ -1,0 +1,135 @@
+<llocsFeina>
+
+
+
+    <llocFeina codi="8072" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="12/09/2008" dataBaixa="" dataAltaEN="09/12/2008" dataBaixaEN="" funcio="GEOGRAFIA I HISTÒRIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="GIH1" descripcio="SALVA, TOMEU" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8073" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="12/09/2008" dataBaixa="" dataAltaEN="09/12/2008" dataBaixaEN="" funcio="BIOLOGIA I GEOLOGIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="BIO1" descripcio="MARTINEZ, TONI" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8076" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2008" dataBaixa="" dataAltaEN="09/01/2008" dataBaixaEN="" funcio="ANGLÈS" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ANG1" descripcio="INT1 ANG" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8078" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="ANGLÈS" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ANG2" descripcio="BAUZA, JOANA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8081" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="12/09/2008" dataBaixa="" dataAltaEN="09/12/2008" dataBaixaEN="" funcio="TECNOLOGIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="TEC1" descripcio="MUT, ANA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8082" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="LLENGUA CASTELLANA I LITERATURA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="CAS1" descripcio="INT1 CAS" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8083" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="BIOLOGIA I GEOLOGIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="BIO2" descripcio="INT1 BIO" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8084" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="GEOGRAFIA I HISTÒRIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="GIH2" descripcio="INT1 GIH" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8085" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2006" dataBaixa="" dataAltaEN="09/01/2006" dataBaixaEN="" funcio="BIOLOGIA I GEOLOGIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="BIO3" descripcio="MARTI, CATIBEL" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8086" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="GEOGRAFIA I HISTÒRIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="GIH3" descripcio="BELENGUER, CATERINA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8087" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="27/10/2008" dataBaixa="" dataAltaEN="10/27/2008" dataBaixaEN="" funcio="LLENGUA I LITERATURA CATALANES (ILLES BALEARS)" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="CAT1" descripcio="INT1 CAT" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8088" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="MATEMÀTIQUES" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="MAT1" descripcio="JAUME, MAGDALENA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8093" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="LLENGUA CASTELLANA I LITERATURA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="CAS2" descripcio="INT2 CAS" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8094" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="12/09/2008" dataBaixa="" dataAltaEN="09/12/2008" dataBaixaEN="" funcio="FRANCÈS" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="FRA1" descripcio="INT1 FRA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8095" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="FÍSICA I QUÍMICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="FIQ1" descripcio="INT1 FIQ" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8096" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="MATEMÀTIQUES" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="MAT2" descripcio="INT1 MAT" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8097" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="FILOSOFIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="FIL1" descripcio="RIERA, PERE" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8098" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="SUPORT A L' ÀREA DE LLENGUA I CIÈNCIES SOCIALS" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="AML1" descripcio="CRESPI, XISCA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8100" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="LLENGUA I LITERATURA CATALANES (ILLES BALEARS)" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="CAT2" descripcio="GAYA, AINA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8101" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="DIBUIX" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="DIB1" descripcio="ALVAREZ, OMAR" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8102" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="EDUCACIÓ FÍSICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="EDF1" descripcio="FRANCIA, ANT.MAR." cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8103" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="19/09/2008" dataBaixa="" dataAltaEN="09/19/2008" dataBaixaEN="" funcio="LLENGUA CASTELLANA I LITERATURA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="CAS3" descripcio="MAS, M.ANGEL" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8104" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="MÚSICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="MUS1" descripcio="REVERT, VICTOR" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8105" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="FÍSICA I QUÍMICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="FIQ2" descripcio="INT2 FIQ" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8106" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="ANGLÈS" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ANG3" descripcio="PINTO, EMMA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8109" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="LLENGUA CASTELLANA I LITERATURA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="CAS4" descripcio="FEMENIAS, MAITE" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8110" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="12/09/2008" dataBaixa="" dataAltaEN="09/12/2008" dataBaixaEN="" funcio="TECNOLOGIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="TEC2" descripcio="JOVER, MAR. ANT." cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8111" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="ANGLÈS" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ANG4" descripcio="RABANAL, MAITE" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8112" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="SUPORT A  L' ÀREA DE CIÈNCIES O TECNOLOGIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="AMC1" descripcio="INT1 AMC" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8114" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="LLENGUA I LITERATURA CATALANES (ILLES BALEARS)" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="CAT3" descripcio="INT2 CAT" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8115" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="03/09/2007" dataBaixa="" dataAltaEN="09/03/2007" dataBaixaEN="" funcio="ANGLÈS" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ANG5" descripcio="INT2 ANG" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8116" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="MATEMÀTIQUES" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="MAT3" descripcio="INT2 MAT" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8118" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="BIOLOGIA I GEOLOGIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="BIO4" descripcio="TUR, MARGA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8119" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2016" dataBaixa="" dataAltaEN="09/01/2016" dataBaixaEN="" funcio="INFORMÀTICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="INF1" descripcio="INT1 INF" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8120" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="12/09/2008" dataBaixa="" dataAltaEN="09/12/2008" dataBaixaEN="" funcio="ECONOMIA" jornada="Mitja jornada" codiJornada="2" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ECO1" descripcio="INT1 ECO 1/2" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8123" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="LLENGUA I LITERATURA CATALANES (ILLES BALEARS)" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="CAT4" descripcio="CALDENTEY, CATALINA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8125" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="GEOGRAFIA I HISTÒRIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="GIH4" descripcio="MESTRE, ANTONIA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8127" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="DIBUIX" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="DIB2" descripcio="VENTAYOL, ADOLFO" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8128" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="12/09/2008" dataBaixa="" dataAltaEN="09/12/2008" dataBaixaEN="" funcio="ANGLÈS" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ANG6" descripcio="INT3 ANG" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8129" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="LLENGUA I LITERATURA CATALANES (ILLES BALEARS)" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="CAT5" descripcio="LLORENÇ, DORA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="8135" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="02/09/2008" dataBaixa="" dataAltaEN="09/02/2008" dataBaixaEN="" funcio="INFORMÀTICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="INF2" descripcio="VIVES, TOMEU" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="20987" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2009" dataBaixa="" dataAltaEN="09/01/2009" dataBaixaEN="" funcio="CULTURA CLÀSSICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="CCL1" descripcio="MUT, JOAN" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="20989" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2009" dataBaixa="" dataAltaEN="09/01/2009" dataBaixaEN="" funcio="TECNOLOGIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="TEC3" descripcio="INT1 TEC" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="33704" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/08/2011" dataBaixa="" dataAltaEN="08/01/2011" dataBaixaEN="" funcio="MATEMÀTIQUES" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="MAT4" descripcio="TERRASA, LOURDES" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="34433" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2011" dataBaixa="" dataAltaEN="09/01/2011" dataBaixaEN="" funcio="ECONOMIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ECO2" descripcio="DOBLAS, NATI" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="35191" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2011" dataBaixa="" dataAltaEN="09/01/2011" dataBaixaEN="" funcio="ORIENTACIÓ EDUCATIVA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ORI1" descripcio="MARTINEZ, SUSANA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="35193" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2011" dataBaixa="" dataAltaEN="09/01/2011" dataBaixaEN="" funcio="INFORMÀTICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="INF3" descripcio="PALLARES, BENJA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="35199" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2011" dataBaixa="" dataAltaEN="09/01/2011" dataBaixaEN="" funcio="Pedagogia terapèutica (secundària)" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="PTE2" descripcio="SANCHEZ, SANTI" cos="Mestres" codiCos="597"/>
+
+    <llocFeina codi="35201" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2011" dataBaixa="" dataAltaEN="09/01/2011" dataBaixaEN="" funcio="INFORMÀTICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="INF4" descripcio="INT2 INF" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="52604" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="07/01/2013" dataBaixa="" dataAltaEN="01/07/2013" dataBaixaEN="" funcio="ANGLÈS" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ANG7" descripcio="PARRA, NOELIA" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="111865" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2008" dataBaixa="" dataAltaEN="09/01/2008" dataBaixaEN="" funcio="SISTEMES I APLICACIONS INFORMÀTIQUES" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="SAI1" descripcio="SANCHEZ, TERESA" cos="Professors tècnics de Formació Professional" codiCos="591"/>
+
+    <llocFeina codi="111866" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2016" dataBaixa="" dataAltaEN="09/01/2016" dataBaixaEN="" funcio="SISTEMES I APLICACIONS INFORMÀTIQUES" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="SAI2" descripcio="INT1 SAI" cos="Professors tècnics de Formació Professional" codiCos="591"/>
+
+    <llocFeina codi="111867" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2008" dataBaixa="" dataAltaEN="09/01/2008" dataBaixaEN="" funcio="SISTEMES I APLICACIONS INFORMÀTIQUES" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="SAI3" descripcio="SALORD, JOSEP" cos="Professors tècnics de Formació Professional" codiCos="591"/>
+
+    <llocFeina codi="111868" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2016" dataBaixa="" dataAltaEN="09/01/2016" dataBaixaEN="" funcio="INFORMÀTICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="NO" abreujat="INF5" descripcio="INT3 INF" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="111870" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2017" dataBaixa="" dataAltaEN="09/01/2017" dataBaixaEN="" funcio="SUPORT A L' ÀREA DE LLENGUA I CIÈNCIES SOCIALS" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="AML2" descripcio="INT1 AML 1/2" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="113484" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Altres" dataAlta="01/07/2018" dataBaixa="" dataAltaEN="07/01/2018" dataBaixaEN="" funcio="GEOGRAFIA I HISTÒRIA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="GIH5" descripcio="INT3 GIH 1/2" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="113486" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Altres" dataAlta="01/07/2018" dataBaixa="" dataAltaEN="07/01/2018" dataBaixaEN="" funcio="MATEMÀTIQUES" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="Origen" ocupada="SI" abreujat="MAT5" descripcio="INT3 MAT 1/2" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="113487" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Altres" dataAlta="01/07/2018" dataBaixa="" dataAltaEN="07/01/2018" dataBaixaEN="" funcio="ALEMANY" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="Origen" ocupada="SI" abreujat="ALM1" descripcio="INT1 ALE 1/2" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="113489" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Altres" dataAlta="01/09/2008" dataBaixa="" dataAltaEN="09/01/2008" dataBaixaEN="" funcio="SUPORT A L' ÀREA PRÀCTICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="AMP1" descripcio="VICENÇ, TOMEU" cos="Professors tècnics de Formació Professional" codiCos="591"/>
+
+    <llocFeina codi="113490" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Altres" dataAlta="01/07/2018" dataBaixa="" dataAltaEN="07/01/2018" dataBaixaEN="" funcio="Pedagogia terapèutica (secundària)" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="PTE1" descripcio="INT1 PTE" cos="Mestres" codiCos="597"/>
+
+    <llocFeina codi="115946" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Altres" dataAlta="01/09/2018" dataBaixa="" dataAltaEN="09/01/2018" dataBaixaEN="" funcio="Professor de Religió (secundària)" jornada="" codiJornada="" organPagament="CAIB" itinerant="Destí" ocupada="SI" abreujat="GIO" descripcio="religió" cos="Professorat laboral" codiCos="997"/>
+
+    <llocFeina codi="135304" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2019" dataBaixa="" dataAltaEN="09/01/2019" dataBaixaEN="" funcio="MATEMÀTIQUES" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="MAT6" descripcio="Jesús Martínez" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="161064" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2020" dataBaixa="" dataAltaEN="09/01/2020" dataBaixaEN="" funcio="EDUCACIÓ FÍSICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="EDF3" descripcio="" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="200264" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Habilitada" dataAlta="01/09/2021" dataBaixa="" dataAltaEN="09/01/2021" dataBaixaEN="" funcio="ORIENTACIÓ EDUCATIVA" jornada="Mitja jornada" codiJornada="2" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="ORI2" descripcio="" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+    <llocFeina codi="200268" centre="YFQ4S798" codiOficialCentre="07008016" tipus="Orgànica" dataAlta="01/09/2021" dataBaixa="" dataAltaEN="09/01/2021" dataBaixaEN="" funcio="EDUCACIÓ FÍSICA" jornada="Jornada completa" codiJornada="1" organPagament="CAIB" itinerant="No itinerant" ocupada="SI" abreujat="EDF2" descripcio="" cos="Professors d'Ensenyament secundari" codiCos="590"/>
+
+</llocsFeina>

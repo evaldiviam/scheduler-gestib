@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CENTRE codi="YFQ4S798" any="2022">
+    <CURSOS>
+        <CURS codi="62" descripcio="1r ESO">
+            <GRUP codi="572881" nom="A" />
+            <GRUP codi="572882" nom="B" />
+            <GRUP codi="572883" nom="C" />
+        </CURS>
+        <CURS codi="66" descripcio="1r Batx.">
+            <GRUP codi="572897" nom="A" />
+            <GRUP codi="572898" nom="B" />
+        </CURS>
+        <CURS codi="67" descripcio="2n batx.">
+            <GRUP codi="572900" nom="A" />
+        </CURS>
+        <CURS codi="94" descripcio="3r ESO">
+            <GRUP codi="572889" nom="A" />
+            <GRUP codi="572890" nom="B" />
+            <GRUP codi="572891" nom="C" />
+            <GRUP codi="572892" nom="D" />
+            <GRUP codi="572893" nom="P" />
+        </CURS>
+        <CURS codi="95" descripcio="4t ESO">
+            <GRUP codi="572894" nom="A" />
+            <GRUP codi="572895" nom="B" />
+            <GRUP codi="572896" nom="C" />
+        </CURS>
+        <CURS codi="563" descripcio="-2E">
+            <GRUP codi="572884" nom="A" />
+            <GRUP codi="572885" nom="B" />
+            <GRUP codi="572886" nom="C" />
+            <GRUP codi="572887" nom="D" />
+            <GRUP codi="572888" nom="P" />
+        </CURS>
+        <CURS codi="7051" descripcio="IFC31">
+            <GRUP codi="574071" nom="A" />
+            <GRUP codi="574072" nom="B" />
+            <GRUP codi="574073" nom="C" />
+        </CURS>
+        <CURS codi="7837" descripcio="IFC21">
+            <GRUP codi="574068" nom="A" />
+            <GRUP codi="574069" nom="B" />
+            <GRUP codi="574070" nom="C" />
+        </CURS>
+    </CURSOS>
+    <PLACES>
+        <PLACA codi="8072" descripcio="SALVA, TOMEU" curta="GIH1" />
+        <PLACA codi="8073" descripcio="MARTINEZ, TONI" curta="BIO1" />
+        <PLACA codi="8076" descripcio="INT1 ANG" curta="ANG1" />
+        <PLACA codi="8078" descripcio="BAUZA, JOANA" curta="ANG2" />
+        <PLACA codi="8081" descripcio="MUT, ANA" curta="TEC1" />
+        <PLACA codi="8082" descripcio="INT1 CAS" curta="CAS1" />
+        <PLACA codi="8083" descripcio="INT1 BIO" curta="BIO2" />
+        <PLACA codi="8084" descripcio="INT1 GIH" curta="GIH2" />
+        <PLACA codi="8085" descripcio="MARTI, CATIBEL" curta="BIO3" />
+        <PLACA codi="8086" descripcio="BELENGUER, CATERINA" curta="GIH3" />
+        <PLACA codi="8087" descripcio="INT1 CAT" curta="CAT1" />
+        <PLACA codi="8088" descripcio="JAUME, MAGDALENA" curta="MAT1" />
+        <PLACA codi="8093" descripcio="INT2 CAS" curta="CAS2" />
+        <PLACA codi="8094" descripcio="INT1 FRA" curta="FRA1" />
+        <PLACA codi="8095" descripcio="INT1 FIQ" curta="FIQ1" />
+        <PLACA codi="8096" descripcio="INT1 MAT" curta="MAT2" />
+        <PLACA codi="8097" descripcio="RIERA, PERE" curta="FIL1" />
+        <PLACA codi="8098" descripcio="CRESPI, XISCA" curta="AML1" />
+        <PLACA codi="8100" descripcio="GAYA, AINA" curta="CAT2" />
+        <PLACA codi="8101" descripcio="ALVAREZ, OMAR" curta="DIB1" />
+        <PLACA codi="8102" descripcio="FRANCIA, ANT.MAR." curta="EDF1" />
+        <PLACA codi="8103" descripcio="MAS, M.ANGEL" curta="CAS3" />
+        <PLACA codi="8104" descripcio="REVERT, VICTOR" curta="MUS1" />
+        <PLACA codi="8105" descripcio="INT2 FIQ" curta="FIQ2" />
+        <PLACA codi="8106" descripcio="PINTO, EMMA" curta="ANG3" />
+        <PLACA codi="8109" descripcio="FEMENIAS, MAITE" curta="CAS4" />
+        <PLACA codi="8110" descripcio="JOVER, MAR. ANT." curta="TEC2" />
+        <PLACA codi="8111" descripcio="RABANAL, MAITE" curta="ANG4" />
+        <PLACA codi="8112" descripcio="INT1 AMC" curta="AMC1" />
+        <PLACA codi="8114" descripcio="INT2 CAT" curta="CAT3" />
+        <PLACA codi="8115" descripcio="INT2 ANG" curta="ANG5" />
+        <PLACA codi="8116" descripcio="INT2 MAT" curta="MAT3" />
+        <PLACA codi="8118" descripcio="TUR, MARGA" curta="BIO4" />
+        <PLACA codi="8119" descripcio="INT1 INF" curta="INF1" />
+        <PLACA codi="8120" descripcio="INT1 ECO 1/2" curta="ECO1" />
+        <PLACA codi="8123" descripcio="CALDENTEY, CATALINA" curta="CAT4" />
+        <PLACA codi="8125" descripcio="MESTRE, ANTONIA" curta="GIH4" />
+        <PLACA codi="8127" descripcio="VENTAYOL, ADOLFO" curta="DIB2" />
+        <PLACA codi="8128" descripcio="INT3 ANG" curta="ANG6" />
+        <PLACA codi="8129" descripcio="LLORENÇ, DORA" curta="CAT5" />
+        <PLACA codi="8135" descripcio="VIVES, TOMEU" curta="INF2" />
+        <PLACA codi="20987" descripcio="MUT, JOAN" curta="CCL1" />
+        <PLACA codi="20989" descripcio="INT1 TEC" curta="TEC3" />
+        <PLACA codi="33704" descripcio="TERRASA, LOURDES" curta="MAT4" />
+        <PLACA codi="34433" descripcio="DOBLAS, NATI" curta="ECO2" />
+        <PLACA codi="35191" descripcio="MARTINEZ, SUSANA" curta="ORI1" />
+        <PLACA codi="35193" descripcio="PALLARES, BENJA" curta="INF3" />
+        <PLACA codi="35199" descripcio="SANCHEZ, SANTI" curta="PTE2" />
+        <PLACA codi="35201" descripcio="INT2 INF" curta="INF4" />
+        <PLACA codi="52604" descripcio="PARRA, NOELIA" curta="ANG7" />
+        <PLACA codi="111865" descripcio="SANCHEZ, TERESA" curta="SAI1" />
+        <PLACA codi="111866" descripcio="INT1 SAI" curta="SAI2" />
+        <PLACA codi="111867" descripcio="SALORD, JOSEP" curta="SAI3" />
+        <PLACA codi="111868" descripcio="INT3 INF" curta="INF5" />
+        <PLACA codi="111870" descripcio="INT1 AML 1/2" curta="AML2" />
+        <PLACA codi="113484" descripcio="INT3 GIH 1/2" curta="GIH5" />
+        <PLACA codi="113486" descripcio="INT3 MAT 1/2" curta="MAT5" />
+        <PLACA codi="113487" descripcio="INT1 ALE 1/2" curta="ALM1" />
+        <PLACA codi="113489" descripcio="VICENÇ, TOMEU" curta="AMP1" />
+        <PLACA codi="113490" descripcio="INT1 PTE" curta="PTE1" />
+        <PLACA codi="115946" descripcio="religió" curta="GIO" />
+        <PLACA codi="135304" descripcio="Jesús Martínez" curta="MAT6" />
+        <PLACA codi="161064" curta="EDF3" />
+        <PLACA codi="200264" curta="ORI2" />
+        <PLACA codi="200268" curta="EDF2" />
+    </PLACES>
+    <DEPARTAMENTS>
+        <DEPARTAMENT codi="545" descripcio="Activitats complementàries i extraescolars" />
+        <DEPARTAMENT codi="553" descripcio="Anglès (EOI)" />
+        <DEPARTAMENT codi="546" descripcio="Arts plàstiques" />
+        <DEPARTAMENT codi="563" descripcio="Biologia i geologia" />
+        <DEPARTAMENT codi="547" descripcio="Ciències naturals" />
+        <DEPARTAMENT codi="565" descripcio="Ciències socials, geografia i història" />
+        <DEPARTAMENT codi="562" descripcio="Dibuix i educació plàstica i visual" />
+        <DEPARTAMENT codi="548" descripcio="Educació física i esportiva" />
+        <DEPARTAMENT codi="549" descripcio="Filosofia" />
+        <DEPARTAMENT codi="550" descripcio="Física i química" />
+        <DEPARTAMENT codi="6489" descripcio="Formació i orientació laboral" />
+        <DEPARTAMENT codi="551" descripcio="Francès (EOI)" />
+        <DEPARTAMENT codi="552" descripcio="Geografia i història" />
+        <DEPARTAMENT codi="561" descripcio="Informàtica i comunicacions (F.P.)" />
+        <DEPARTAMENT codi="554" descripcio="Llatí" />
+        <DEPARTAMENT codi="555" descripcio="Llengua castellana i literatura" />
+        <DEPARTAMENT codi="556" descripcio="Llengua catalana i literatura" />
+        <DEPARTAMENT codi="564" descripcio="Llengües estrangeres" />
+        <DEPARTAMENT codi="557" descripcio="Matemàtiques" />
+        <DEPARTAMENT codi="558" descripcio="Música" />
+        <DEPARTAMENT codi="544" descripcio="Orientació" />
+        <DEPARTAMENT codi="560" descripcio="Tecnologia" />
+    </DEPARTAMENTS>
+    <MATERIES>
+        <MATERIA codi="2238037" curs="62" descripcio="Atenció educativa-A-1E-1E" curta="AED-A-1E" departament="" />
+        <MATERIA codi="2238038" curs="62" descripcio="Atenció educativa-B-1E-1E" curta="AED-B-1E" departament="" />
+        <MATERIA codi="2238039" curs="62" descripcio="Atenció educativa-C-1E-1E" curta="AED-C-1E" departament="" />
+        <MATERIA codi="2238040" curs="62" descripcio="Biologia i geologia-A-1E" curta="BIO-A-1E" departament="" />
+        <MATERIA codi="2238041" curs="62" descripcio="Biologia i geologia-B-1E" curta="BIO-B-1E" departament="" />
+        <MATERIA codi="2238042" curs="62" descripcio="Biologia i geologia-C-1E" curta="BIO-C-1E" departament="" />
+        <MATERIA codi="2238043" curs="62" descripcio="Cooperació i serveis a la comunitat-ABC-1E-1E" curta="CSC-ABC-1E" departament="" />
+        <MATERIA codi="2238046" curs="62" descripcio="Cultura clàssica I-A-1E" curta="CCA-A-1E" departament="" />
+        <MATERIA codi="2238047" curs="62" descripcio="Cultura clàssica I-B-1E" curta="CCA-B-1E" departament="" />
+        <MATERIA codi="2238048" curs="62" descripcio="Cultura clàssica I-C-1E" curta="CCA-C-1E" departament="" />
+        <MATERIA codi="2238049" curs="62" descripcio="Educació física-A-1E" curta="EDF-A-1E" departament="" />
+        <MATERIA codi="2238050" curs="62" descripcio="Educació física-B-1E" curta="EDF-B-1E" departament="" />
+        <MATERIA codi="2238051" curs="62" descripcio="Educació física-C-1E" curta="EDF-C-1E" departament="" />
+        <MATERIA codi="2238052" curs="62" descripcio="Geografia i història-A-1E" curta="GEO-A-1E" departament="" />
+        <MATERIA codi="2238053" curs="62" descripcio="Geografia i història-B-1E" curta="GEO-B-1E" departament="" />
+        <MATERIA codi="2238054" curs="62" descripcio="Geografia i història-C-1E" curta="GEO-C-1E" departament="" />
+        <MATERIA codi="2238055" curs="62" descripcio="Igualtat de gènere-A-1E" curta="IGE-A-1E" departament="" />
+        <MATERIA codi="2238056" curs="62" descripcio="Igualtat de gènere-B-1E" curta="IGE-B-1E" departament="" />
+        <MATERIA codi="2238057" curs="62" descripcio="Igualtat de gènere-C-1E" curta="IGE-C-1E" departament="" />
+        <MATERIA codi="2238058" curs="62" descripcio="Llengua castellana i literatura-A-1E" curta="CAS-A-1E" departament="" />
+        <MATERIA codi="2238059" curs="62" descripcio="Llengua castellana i literatura-B-1E" curta="CAS-B-1E" departament="" />
+        <MATERIA codi="2238060" curs="62" descripcio="Llengua castellana i literatura-C-1E" curta="CAS-C-1E" departament="" />
+        <MATERIA codi="2238061" curs="62" descripcio="Llengua catalana i literatura-A-1E" curta="CAT-A-1E" departament="" />
+        <MATERIA codi="2238062" curs="62" descripcio="Llengua catalana i literatura-B-1E" curta="CAT-B-1E" departament="" />
+        <MATERIA codi="2238063" curs="62" descripcio="Llengua catalana i literatura-C-1E" curta="CAT-C-1E" departament="" />
+        <MATERIA codi="2238064" curs="62" descripcio="Llengua estrangera - Anglès-A-1E" curta="ANG-A-1E" departament="" />
+        <MATERIA codi="2294683" curs="62" descripcio="Llengua estrangera - Anglès-A1-1E" curta="ANG-A1-1E" departament="" />
+        <MATERIA codi="2331368" curs="62" descripcio="Llengua estrangera - Anglès-A2-1E" curta="ANG-A2-1E" departament="" />
+        <MATERIA codi="2238065" curs="62" descripcio="Llengua estrangera - Anglès-B-1E" curta="ANG-B-1E" departament="" />
+        <MATERIA codi="2294684" curs="62" descripcio="Llengua estrangera - Anglès-B1-1E" curta="ANG-B1-1E" departament="" />
+        <MATERIA codi="2331369" curs="62" descripcio="Llengua estrangera - Anglès-B2-1E" curta="ANG-B2-1E" departament="" />
+        <MATERIA codi="2238066" curs="62" descripcio="Llengua estrangera - Anglès-C-1E" curta="ANG-C-1E" departament="" />
+        <MATERIA codi="2294685" curs="62" descripcio="Llengua estrangera - Anglès-C1-1E" curta="ANG-C1-1E" departament="" />
+        <MATERIA codi="2331371" curs="62" descripcio="Llengua estrangera - Anglès-C2-1E" curta="ANG-C2-1E" departament="" />
+        <MATERIA codi="2238067" curs="62" descripcio="Matemàtiques-A-1E-1E" curta="MAT-A-1E" departament="" />
+        <MATERIA codi="2238068" curs="62" descripcio="Matemàtiques-B-1E-1E" curta="MAT-B-1E" departament="" />
+        <MATERIA codi="2238069" curs="62" descripcio="Matemàtiques-C-1E-1E" curta="MAT-C-1E" departament="" />
+        <MATERIA codi="2238070" curs="62" descripcio="Música-A-1E-1E" curta="MUS-A-1E" departament="" />
+        <MATERIA codi="2238071" curs="62" descripcio="Música-B-1E-1E" curta="MUS-B-1E" departament="" />
+        <MATERIA codi="2238072" curs="62" descripcio="Música-C-1E-1E" curta="MUS-C-1E" departament="" />
+        <MATERIA codi="2238073" curs="62" descripcio="Recursos digitals I-ABC-1E-1E" curta="RDI-ABC-1E" departament="" />
+        <MATERIA codi="2238076" curs="62" descripcio="Religió catòlica-AB-1E" curta="RCA-AB-1E" departament="" />
+        <MATERIA codi="2238079" curs="62" descripcio="Religió islàmica-A-1E" curta="RIS-A-1E" departament="" />
+        <MATERIA codi="2238080" curs="62" descripcio="Religió islàmica-B-1E" curta="RIS-B-1E" departament="" />
+        <MATERIA codi="2238081" curs="62" descripcio="Religió islàmica-C-1E" curta="RIS-C-1E" departament="" />
+        <MATERIA codi="2238082" curs="62" descripcio="Segona llengua estrangera - Alemany-ABC-1E" curta="ALM-ABC-1E" departament="" />
+        <MATERIA codi="2238085" curs="62" descripcio="Segona llengua estrangera - Francès-ABC-1E" curta="FRA-ABC-1E" departament="" />
+        <MATERIA codi="2238088" curs="62" descripcio="Taller de consum responsable-ABC-1E" curta="TCR-ABC-1E" departament="" />
+        <MATERIA codi="2238089" curs="62" descripcio="Taller de consum responsable-B-1E" curta="TCR-B-1E" departament="" />
+        <MATERIA codi="2238090" curs="62" descripcio="Taller de consum responsable-C-1E" curta="TCR-C-1E" departament="" />
+        <MATERIA codi="2331377" curs="62" descripcio="Tutoria projecte-A-1E" curta="TUP-A-1E" departament="" />
+        <MATERIA codi="2331378" curs="62" descripcio="Tutoria projecte-B-1E" curta="TUP-B-1E" departament="" />
+        <MATERIA codi="2331379" curs="62" descripcio="Tutoria projecte-C-1E" curta="TUP-C-1E" departament="" />
+        <MATERIA codi="2238091" curs="62" descripcio="Tutoria-A-1E-1E" curta="TUT-A-1E" departament="" />
+        <MATERIA codi="2238092" curs="62" descripcio="Tutoria-B-1E-1E" curta="TUT-B-1E" departament="" />
+        <MATERIA codi="2238093" curs="62" descripcio="Tutoria-C-1E-1E" curta="TUT-C-1E" departament="" />
+        <MATERIA codi="2237932" curs="66" descripcio="Atenció educativa-A-1B" curta="AED-A-1B" departament="" />
+        <MATERIA codi="2237933" curs="66" descripcio="Atenció educativa-B-1B" curta="AED-B-1B" departament="" />
+        <MATERIA codi="2237935" curs="66" descripcio="Biologia, geologia i ciències ambientals-AB-1B" curta="BGC-AB-1B" departament="" />
+        <MATERIA codi="2237941" curs="66" descripcio="Cultura audiovisual-AB-1B" curta="CAU-AB-1B" departament="" />
+        <MATERIA codi="2237950" curs="66" descripcio="Dibuix tècnic I-1B-1B" curta="DTC-1B" departament="" />
+        <MATERIA codi="2237957" curs="66" descripcio="Economia, emprenedoria i activitat empresarial-B-1B" curta="EEA-B-1B" departament="" />
+        <MATERIA codi="2237954" curs="66" descripcio="Economia-B-1B" curta="ECO-B-1B" departament="" />
+        <MATERIA codi="2237959" curs="66" descripcio="Educació física-A-1B" curta="EDF-A-1B" departament="" />
+        <MATERIA codi="2237960" curs="66" descripcio="Educació física-B-1B" curta="EDF-B-1B" departament="" />
+        <MATERIA codi="2237962" curs="66" descripcio="Filosofia-A-1B-1B" curta="FIL-A-1B" departament="" />
+        <MATERIA codi="2237963" curs="66" descripcio="Filosofia-B-1B-1B" curta="FIL-B-1B" departament="" />
+        <MATERIA codi="2237965" curs="66" descripcio="Física i química-1B-1B" curta="FIQ-AB-1B" departament="" />
+        <MATERIA codi="2237969" curs="66" descripcio="Grec I-1B-1B" curta="GRC-A-1B" departament="" />
+        <MATERIA codi="2237971" curs="66" descripcio="Història del món contemporani-AB-1B-1B" curta="HMC-AB-1B" departament="" />
+        <MATERIA codi="2237974" curs="66" descripcio="Història i cultura de les Illes Balears-AB-1B" curta="HCIB-AB-1B" departament="" />
+        <MATERIA codi="2333141" curs="66" descripcio="Literatura universal-1B" curta="LIU-A-1B" departament="" />
+        <MATERIA codi="2237981" curs="66" descripcio="Llatí I-B-1B" curta="LLT-B-1B" departament="" />
+        <MATERIA codi="2237983" curs="66" descripcio="Llengua castellana i literatura I-A-1B" curta="CAS-A-1B" departament="" />
+        <MATERIA codi="2237984" curs="66" descripcio="Llengua castellana i literatura I-B-1B" curta="CAS-B-1B" departament="" />
+        <MATERIA codi="2237986" curs="66" descripcio="Llengua catalana i literatura I-A-1B" curta="CAT-A-1B" departament="" />
+        <MATERIA codi="2237987" curs="66" descripcio="Llengua catalana i literatura I-B-1B" curta="CAT-B-1B" departament="" />
+        <MATERIA codi="2237989" curs="66" descripcio="Llengua estrangera I - Anglès-A-1B" curta="ANG-A-1B" departament="" />
+        <MATERIA codi="2237990" curs="66" descripcio="Llengua estrangera I - Anglès-B-1B" curta="ANG-B-1B" departament="" />
+        <MATERIA codi="2237996" curs="66" descripcio="Matemàtiques aplicades a les ciències socials I-B-1B" curta="MAP-B-1B" departament="" />
+        <MATERIA codi="2237999" curs="66" descripcio="Matemàtiques generals-B-1B" curta="MAG-1B" departament="" />
+        <MATERIA codi="2238001" curs="66" descripcio="Matemàtiques I-A-1B" curta="MAT-A-1B" departament="" />
+        <MATERIA codi="2238004" curs="66" descripcio="Programació i tractament de dades I-AB-1B" curta="PTD-AB-1B" departament="" />
+        <MATERIA codi="2238010" curs="66" descripcio="Religió catòlica I-A-1B" curta="REL-A-1B" departament="" />
+        <MATERIA codi="2325360" curs="66" descripcio="Religió catòlica I-B-1B" curta="RELC I-B-1B" departament="" />
+        <MATERIA codi="2238016" curs="66" descripcio="Segona llengua estrangera - Alemany I-AB-1B" curta="ALM-AB-1B" departament="" />
+        <MATERIA codi="2238019" curs="66" descripcio="Segona llengua estrangera - Francès I-AB-1B" curta="FRA-AB-1B" departament="" />
+        <MATERIA codi="2238022" curs="66" descripcio="Tècniques experimentals-AB-1B" curta="TEX-AB-1B" departament="" />
+        <MATERIA codi="2238025" curs="66" descripcio="Tecnologia i enginyeria I-A-1B" curta="TEN-A-1B" departament="" />
+        <MATERIA codi="2238028" curs="66" descripcio="Treball de recerca de batxillerat I-A-1B-1B" curta="TRB-A-1B" departament="" />
+        <MATERIA codi="2238029" curs="66" descripcio="Treball de recerca de batxillerat I-B-1B-1B" curta="TRB-B-1B" departament="" />
+        <MATERIA codi="2238031" curs="66" descripcio="Tutoria-A-1B" curta="TUT-A-1B" departament="" />
+        <MATERIA codi="2238032" curs="66" descripcio="Tutoria-B-1B" curta="TUT-B-1B" departament="" />
+        <MATERIA codi="2238098" curs="67" descripcio="Biologia-2B" curta="BIO-A-2B" departament="" />
+        <MATERIA codi="2238100" curs="67" descripcio="Ciències de la terra i el medi ambient-A-2B" curta="CMA-A-2B" departament="" />
+        <MATERIA codi="2238106" curs="67" descripcio="Dibuix tècnic II-2A-2B" curta="DTC-A-2B" departament="" />
+        <MATERIA codi="2238111" curs="67" descripcio="Economia de l'empresa-2B-2B" curta="ECE-A-2B" departament="" />
+        <MATERIA codi="2238112" curs="67" descripcio="Física-2B" curta="FIS-A-2B" departament="" />
+        <MATERIA codi="2238118" curs="67" descripcio="Geografia-A-2B-2B" curta="GEO-A-2B" departament="" />
+        <MATERIA codi="2238122" curs="67" descripcio="Grec II-A-2B-2B" curta="GRC-A-2B" departament="" />
+        <MATERIA codi="2238124" curs="67" descripcio="Història de la filosofia-2B" curta="HFI-A-2B" departament="" />
+        <MATERIA codi="2238128" curs="67" descripcio="Història de l'art-2B-2B" curta="HAR-A-2B" departament="" />
+        <MATERIA codi="2238130" curs="67" descripcio="Història d'Espanya-A-2B-2B" curta="HES-A-2B" departament="" />
+        <MATERIA codi="2238134" curs="67" descripcio="Llatí II-2B-2B" curta="LLT-A-2B" departament="" />
+        <MATERIA codi="2238136" curs="67" descripcio="Llengua castellana i literatura II-2B" curta="CAS-A-2B" departament="" />
+        <MATERIA codi="2238138" curs="67" descripcio="Llengua catalana i literatura II-2B" curta="CAT-A-2B" departament="" />
+        <MATERIA codi="2238140" curs="67" descripcio="Matemàtiques aplicades a les ciències socials II-2B" curta="MAP-A-2B" departament="" />
+        <MATERIA codi="2238142" curs="67" descripcio="Matemàtiques II-2B-2B" curta="MAT-A-2B" departament="" />
+        <MATERIA codi="2238144" curs="67" descripcio="Primera llengua estrangera II - Anglès-2B" curta="ANG-A-2B" departament="" />
+        <MATERIA codi="2324857" curs="67" descripcio="Psicologia A-2B-2B" curta="PSI-A-2B" departament="" />
+        <MATERIA codi="2324856" curs="67" descripcio="Química A-2B-2B" curta="QUI-A-2B" departament="" />
+        <MATERIA codi="2238154" curs="67" descripcio="Segona llengua estrangera - Alemany II-2B" curta="ALM-A-2B" departament="" />
+        <MATERIA codi="2238160" curs="67" descripcio="Tecnologia industrial II.2B-2B" curta="TIN-A-2B" departament="" />
+        <MATERIA codi="2238162" curs="67" descripcio="Tecnologies de la informació i la comunicació II-A-2B" curta="TIC-A-2B" departament="" />
+        <MATERIA codi="2238164" curs="67" descripcio="Tutoria-A-2B" curta="TUT-A-2B" departament="" />
+        <MATERIA codi="2238275" curs="94" descripcio="Àmbit científic i tecnològic-P-3E" curta="AMC-P-3E" departament="" />
+        <MATERIA codi="2238280" curs="94" descripcio="Àmbit lingüístic i social-PDC-3E" curta="ALS-P-3E" departament="" />
+        <MATERIA codi="2238281" curs="94" descripcio="Atenció educativa-A-3E-3E" curta="AED-A-3E" departament="" />
+        <MATERIA codi="2238282" curs="94" descripcio="Atenció educativa-B-3E-3E" curta="AED-B-3E" departament="" />
+        <MATERIA codi="2238283" curs="94" descripcio="Atenció educativa-CP-3E-3E" curta="AED-CP-3E" departament="" />
+        <MATERIA codi="2238284" curs="94" descripcio="Atenció educativa-D-3E-3E" curta="AED-D-3E" departament="" />
+        <MATERIA codi="2238286" curs="94" descripcio="Biologia i geologia-A-3E" curta="BIO-A-3E" departament="" />
+        <MATERIA codi="2238287" curs="94" descripcio="Biologia i geologia-B-3E" curta="BIO-B-3E" departament="" />
+        <MATERIA codi="2238288" curs="94" descripcio="Biologia i geologia-C-3E" curta="BIO-C-3E" departament="" />
+        <MATERIA codi="2238289" curs="94" descripcio="Biologia i geologia-D-3E" curta="BIO-D-3E" departament="" />
+        <MATERIA codi="2238291" curs="94" descripcio="Cooperació i serveis a la comunitat-ABCDP-3E" curta="CSC-ABCDP-3E" departament="" />
+        <MATERIA codi="2238296" curs="94" descripcio="Cultura clàssica II-A-3E" curta="CCA-A-3E" departament="" />
+        <MATERIA codi="2238297" curs="94" descripcio="Cultura clàssica II-B-3E" curta="CCA-B-3E" departament="" />
+        <MATERIA codi="2238298" curs="94" descripcio="Cultura clàssica II-C-3E" curta="CCA-C-3E" departament="" />
+        <MATERIA codi="2238299" curs="94" descripcio="Cultura clàssica II-D-3E" curta="CCA-D-3E" departament="" />
+        <MATERIA codi="2238300" curs="94" descripcio="Cultura clàssica II-P-3E" curta="CCA-P-3E" departament="" />
+        <MATERIA codi="2238301" curs="94" descripcio="Educació física-A-3E" curta="EDF-A-3E" departament="" />
+        <MATERIA codi="2238302" curs="94" descripcio="Educació física-B-3E" curta="EDF-B-3E" departament="" />
+        <MATERIA codi="2238303" curs="94" descripcio="Educació física-C-3E" curta="EDF-C-3E" departament="" />
+        <MATERIA codi="2238304" curs="94" descripcio="Educació física-D-3E" curta="EDF-D-3E" departament="" />
+        <MATERIA codi="2238305" curs="94" descripcio="Educació física-P-3E" curta="EDF-P-3E" departament="" />
+        <MATERIA codi="2238306" curs="94" descripcio="Educació plàstica visual i audiovisual-A-3E" curta="PLA-A-3E" departament="" />
+        <MATERIA codi="2238307" curs="94" descripcio="Educació plàstica visual i audiovisual-B-3E-3E" curta="PLA-B-3E" departament="" />
+        <MATERIA codi="2238308" curs="94" descripcio="Educació plàstica visual i audiovisual-C-3E-3E" curta="PLA-C-3E" departament="" />
+        <MATERIA codi="2238309" curs="94" descripcio="Educació plàstica visual i audiovisual-D-3E-3E" curta="PLA-D-3E" departament="" />
+        <MATERIA codi="2238310" curs="94" descripcio="Educació plàstica visual i audiovisual-P-3E-3E" curta="PLA-P-3E" departament="" />
+        <MATERIA codi="2238311" curs="94" descripcio="Física i química-A-3E" curta="FIQ-A-3E" departament="" />
+        <MATERIA codi="2238312" curs="94" descripcio="Física i química-B-3E" curta="FIQ-B-3E" departament="" />
+        <MATERIA codi="2238313" curs="94" descripcio="Física i química-C-3E" curta="FIQ-C-3E" departament="" />
+        <MATERIA codi="2238314" curs="94" descripcio="Física i química-D-3E" curta="FIQ-D-3E" departament="" />
+        <MATERIA codi="2238316" curs="94" descripcio="Geografia i història-A-3E" curta="GEO-A-3E" departament="" />
+        <MATERIA codi="2238317" curs="94" descripcio="Geografia i història-B-3E" curta="GEO-B-3E" departament="" />
+        <MATERIA codi="2238318" curs="94" descripcio="Geografia i història-C-3E" curta="GEO-C-3E" departament="" />
+        <MATERIA codi="2238319" curs="94" descripcio="Geografia i història-D-3E" curta="GEO-D-3E" departament="" />
+        <MATERIA codi="2238321" curs="94" descripcio="Introducció a la filosofia-A-3E" curta="IFI-A-3E" departament="" />
+        <MATERIA codi="2238322" curs="94" descripcio="Introducció a la filosofia-B-3E" curta="IFI-B-3E" departament="" />
+        <MATERIA codi="2238323" curs="94" descripcio="Introducció a la filosofia-C-3E" curta="IFI-C-3E" departament="" />
+        <MATERIA codi="2238324" curs="94" descripcio="Introducció a la filosofia-D-3E" curta="IFI-D-3E" departament="" />
+        <MATERIA codi="2238325" curs="94" descripcio="Introducció a la filosofia-P-3E" curta="IFI-P-3E" departament="" />
+        <MATERIA codi="2238326" curs="94" descripcio="Llengua castellana i literatura-A-3E" curta="CAS-A-3E" departament="" />
+        <MATERIA codi="2238327" curs="94" descripcio="Llengua castellana i literatura-B-3E" curta="CAS-B-3E" departament="" />
+        <MATERIA codi="2238328" curs="94" descripcio="Llengua castellana i literatura-C-3E" curta="CAS-C-3E" departament="" />
+        <MATERIA codi="2238329" curs="94" descripcio="Llengua castellana i literatura-D-3E" curta="CAS-D-3E" departament="" />
+        <MATERIA codi="2238331" curs="94" descripcio="Llengua catalana i literatura-A-3E" curta="CAT-A-3E" departament="" />
+        <MATERIA codi="2238332" curs="94" descripcio="Llengua catalana i literatura-B-3E" curta="CAT-B-3E" departament="" />
+        <MATERIA codi="2238333" curs="94" descripcio="Llengua catalana i literatura-C-3E" curta="CAT-C-3E" departament="" />
+        <MATERIA codi="2238334" curs="94" descripcio="Llengua catalana i literatura-D-3E" curta="CAT-D-3E" departament="" />
+        <MATERIA codi="2238336" curs="94" descripcio="Llengua estrangera - Anglès-A-3E" curta="ANG-A-3E" departament="" />
+        <MATERIA codi="2333546" curs="94" descripcio="Llengua estrangera - Anglès-A1-3E" curta="ANG-A1-3E" departament="" />
+        <MATERIA codi="2333547" curs="94" descripcio="Llengua estrangera - Anglès-A2-3E" curta="ANG-A2-3E" departament="" />
+        <MATERIA codi="2238337" curs="94" descripcio="Llengua estrangera - Anglès-B-3E" curta="ANG-B-3E" departament="" />
+        <MATERIA codi="2333548" curs="94" descripcio="Llengua estrangera - Anglès-B1-3E" curta="ANG-B1-3E" departament="" />
+        <MATERIA codi="2333550" curs="94" descripcio="Llengua estrangera - Anglès-B2-3E" curta="ANG-B2-3E" departament="" />
+        <MATERIA codi="2238338" curs="94" descripcio="Llengua estrangera - Anglès-C-3E" curta="ANG-C-3E" departament="" />
+        <MATERIA codi="2333549" curs="94" descripcio="Llengua estrangera - Anglès-C1-3E" curta="ANG-C1-3E" departament="" />
+        <MATERIA codi="2333551" curs="94" descripcio="Llengua estrangera - Anglès-C2-3E" curta="ANG-C2-3E" departament="" />
+        <MATERIA codi="2238339" curs="94" descripcio="Llengua estrangera - Anglès-D-3E" curta="ANG-D-3E" departament="" />
+        <MATERIA codi="2333146" curs="94" descripcio="Llengua estrangera - Anglès-D1-3E" curta="ANG-D1-3E" departament="" />
+        <MATERIA codi="2333147" curs="94" descripcio="Llengua estrangera - Anglès-D2-3E" curta="ANG-D2-3E" departament="" />
+        <MATERIA codi="2238340" curs="94" descripcio="Llengua estrangera - Anglès-P-3E" curta="ANG-P-3E" departament="" />
+        <MATERIA codi="2238341" curs="94" descripcio="Matemàtiques-A-3E-3E" curta="MAT-A-3E" departament="" />
+        <MATERIA codi="2238342" curs="94" descripcio="Matemàtiques-B-3E-3E" curta="MAT-B-3E" departament="" />
+        <MATERIA codi="2238343" curs="94" descripcio="Matemàtiques-C-3E-3E" curta="MAT-C-3E" departament="" />
+        <MATERIA codi="2238344" curs="94" descripcio="Matemàtiques-D-3E-3E" curta="MAT-D-3E" departament="" />
+        <MATERIA codi="2238346" curs="94" descripcio="Música-ABCP-3E-3E" curta="MUS-ABCP-3E" departament="" />
+        <MATERIA codi="2238351" curs="94" descripcio="Recursos digitals II-A-3E" curta="RDI-A-3E" departament="" />
+        <MATERIA codi="2238352" curs="94" descripcio="Recursos digitals II-B-3E" curta="RDI-B-3E" departament="" />
+        <MATERIA codi="2238353" curs="94" descripcio="Recursos digitals II-C-3E" curta="RDI-C-3E" departament="" />
+        <MATERIA codi="2238354" curs="94" descripcio="Recursos digitals II-D-3E" curta="RDI-D-3E" departament="" />
+        <MATERIA codi="2238355" curs="94" descripcio="Recursos digitals II-P-3E" curta="RDI-P-3E" departament="" />
+        <MATERIA codi="2238356" curs="94" descripcio="Religió catòlica-CP-3E-3E" curta="RCA-CP-3E" departament="" />
+        <MATERIA codi="2238359" curs="94" descripcio="Religió catòlica-D-3E-3E" curta="RCA-D-3E" departament="" />
+        <MATERIA codi="2238361" curs="94" descripcio="Religió islàmica-A-3E" curta="RIS-A-3E" departament="" />
+        <MATERIA codi="2238362" curs="94" descripcio="Religió islàmica-B-3E" curta="RIS-B-3E" departament="" />
+        <MATERIA codi="2238363" curs="94" descripcio="Religió islàmica-C-3E" curta="RIS-C-3E" departament="" />
+        <MATERIA codi="2238364" curs="94" descripcio="Religió islàmica-D-3E" curta="RIS-D-3E" departament="" />
+        <MATERIA codi="2238365" curs="94" descripcio="Religió islàmica-P-3E" curta="RIS-P-3E" departament="" />
+        <MATERIA codi="2238366" curs="94" descripcio="Segona llengua estrangera - Alemany-ABC-PDC-3E" curta="ALM-ABCP-3E" departament="" />
+        <MATERIA codi="2238368" curs="94" descripcio="Segona llengua estrangera - Alemany-D-3E" curta="ALM-D-3E" departament="" />
+        <MATERIA codi="2238371" curs="94" descripcio="Segona llengua estrangera - Francès-ABCP-3E-3E" curta="FRA-ABCP-3E" departament="" />
+        <MATERIA codi="2238373" curs="94" descripcio="Segona llengua estrangera - Francès-D-3E-3E" curta="FRA-D-3E" departament="" />
+        <MATERIA codi="2238376" curs="94" descripcio="Tecnologia i digitalització-A-3E-3E" curta="TID-A-3E" departament="" />
+        <MATERIA codi="2238377" curs="94" descripcio="Tecnologia i digitalització-B-3E-3E" curta="TID-B-3E" departament="" />
+        <MATERIA codi="2238378" curs="94" descripcio="Tecnologia i digitalització-C-3E-3E" curta="TID-C-3E" departament="" />
+        <MATERIA codi="2238379" curs="94" descripcio="Tecnologia i digitalització-D-3E-3E" curta="TID-D-3E" departament="" />
+        <MATERIA codi="2238381" curs="94" descripcio="Tutoria-A-3E-3E" curta="TUT-A-3E" departament="" />
+        <MATERIA codi="2238382" curs="94" descripcio="Tutoria-B-3E-3E" curta="TUT-B-3E" departament="" />
+        <MATERIA codi="2238383" curs="94" descripcio="Tutoria-C-3E-3E" curta="TUT-C-3E" departament="" />
+        <MATERIA codi="2238384" curs="94" descripcio="Tutoria-D-3E-3E" curta="TUT-D-3E" departament="" />
+        <MATERIA codi="2238385" curs="94" descripcio="Tutoria-P-3E-3E" curta="TUT-P-3E" departament="" />
+        <MATERIA codi="2238386" curs="95" descripcio="Arts escèniques i dansa-A-4E" curta="AED-A-4E" departament="" />
+        <MATERIA codi="2238387" curs="95" descripcio="Arts escèniques i dansa-B-4E" curta="AED-B-4E" departament="" />
+        <MATERIA codi="2238388" curs="95" descripcio="Arts escèniques i dansa-C-4E" curta="AED-C-4E" departament="" />
+        <MATERIA codi="2238389" curs="95" descripcio="Biologia i geologia-ABC-4E" curta="BIO-ABC-4E" departament="" />
+        <MATERIA codi="2238393" curs="95" descripcio="Ciències aplicades a l'activitat professional-BC-4E" curta="CAP-BC-4E" departament="" />
+        <MATERIA codi="2238395" curs="95" descripcio="Cultura científica-A-4E" curta="CCI-A-4E" departament="" />
+        <MATERIA codi="2238396" curs="95" descripcio="Cultura científica-B-4E" curta="CCI-B-4E" departament="" />
+        <MATERIA codi="2238397" curs="95" descripcio="Cultura científica-C-4E" curta="CCI-C-4E" departament="" />
+        <MATERIA codi="2238398" curs="95" descripcio="Cultura clàssica-A-4E" curta="CCA-A-4E" departament="" />
+        <MATERIA codi="2238399" curs="95" descripcio="Cultura clàssica-B-4E" curta="CCA-B-4E" departament="" />
+        <MATERIA codi="2238400" curs="95" descripcio="Cultura clàssica-C-4E" curta="CCA-C-4E" departament="" />
+        <MATERIA codi="2238401" curs="95" descripcio="Economia-ABC-4E-4E" curta="ECO-ABC-4E" departament="" />
+        <MATERIA codi="2238404" curs="95" descripcio="Educació física-A-4E" curta="EDF-A-4E" departament="" />
+        <MATERIA codi="2238405" curs="95" descripcio="Educació física-B-4E" curta="EDF-B-4E" departament="" />
+        <MATERIA codi="2238406" curs="95" descripcio="Educació física-C-4E" curta="EDF-C-4E" departament="" />
+        <MATERIA codi="2238407" curs="95" descripcio="Educació plàstica, visual i audiovisual-ABC-E4-4E" curta="PLA-ABC-4E" departament="" />
+        <MATERIA codi="2238410" curs="95" descripcio="Filosofia-A-4E" curta="FIL-A-4E" departament="" />
+        <MATERIA codi="2238411" curs="95" descripcio="Filosofia-B-4E" curta="FIL-B-4E" departament="" />
+        <MATERIA codi="2238412" curs="95" descripcio="Filosofia-C-4E" curta="FIL-C-4E" departament="" />
+        <MATERIA codi="2238413" curs="95" descripcio="Física i química-ABC-4E-4E" curta="FIQ-ABC-4E" departament="" />
+        <MATERIA codi="2238416" curs="95" descripcio="Geografia i història-A-4E" curta="GEO-A-4E" departament="" />
+        <MATERIA codi="2238417" curs="95" descripcio="Geografia i història-B-4E" curta="GEO-B-4E" departament="" />
+        <MATERIA codi="2238418" curs="95" descripcio="Geografia i història-C-4E" curta="GEO-C-4E" departament="" />
+        <MATERIA codi="2238419" curs="95" descripcio="Iniciació a l'activitat emprenedora i empresarial-A-4E" curta="IAE-A-4E" departament="" />
+        <MATERIA codi="2238420" curs="95" descripcio="Iniciació a l'activitat emprenedora i empresarial-B-4E" curta="IAE-B-4E" departament="" />
+        <MATERIA codi="2238421" curs="95" descripcio="Iniciació a l'activitat emprenedora i empresarial-C-4E" curta="IAE-C-4E" departament="" />
+        <MATERIA codi="2238422" curs="95" descripcio="Llatí-ABC-4E" curta="LLT-ABC-4E" departament="" />
+        <MATERIA codi="2238425" curs="95" descripcio="Llengua castellana i literatura-A-4E" curta="CAS-A-4E" departament="" />
+        <MATERIA codi="2238426" curs="95" descripcio="Llengua castellana i literatura-B-4E" curta="CAS-B-4E" departament="" />
+        <MATERIA codi="2238427" curs="95" descripcio="Llengua castellana i literatura-C-4E" curta="CAS-C-4E" departament="" />
+        <MATERIA codi="2275474" curs="95" descripcio="Llengua castellana i literatura-C1 PRAQ-4E" curta="CAS-C1-4E" departament="" />
+        <MATERIA codi="2333145" curs="95" descripcio="Llengua castellana i literatura-C2-4E" curta="CAS-C2-4E" departament="" />
+        <MATERIA codi="2238428" curs="95" descripcio="Llengua catalana i literatura-A-4E" curta="CAT-A-4E" departament="" />
+        <MATERIA codi="2238429" curs="95" descripcio="Llengua catalana i literatura-B-4E" curta="CAT-B-4E" departament="" />
+        <MATERIA codi="2238430" curs="95" descripcio="Llengua catalana i literatura-C-4E" curta="CAT-C-4E" departament="" />
+        <MATERIA codi="2275483" curs="95" descripcio="Llengua catalana i literatura-C1-PRAQ-4E" curta="CAT-C1-4E" departament="" />
+        <MATERIA codi="2333142" curs="95" descripcio="Llengua catalana i literatura-C2-4E" curta="CAT-C2-4E" departament="" />
+        <MATERIA codi="2238431" curs="95" descripcio="Matemàtiques d'ensenyaments acadèmics-A-4E-4E" curta="MAC-A-4E" departament="" />
+        <MATERIA codi="2238432" curs="95" descripcio="Matemàtiques d'ensenyaments acadèmics-BC-4E-4E" curta="MAC-BC-4E" departament="" />
+        <MATERIA codi="2238435" curs="95" descripcio="Matemàtiques d'ensenyaments aplicats-BC-4E-4E" curta="MAP-BC-4E" departament="" />
+        <MATERIA codi="2238436" curs="95" descripcio="Matemàtiques d'ensenyaments aplicats-C-4E-PRAQ-4E" curta="MAP-C-4E" departament="" />
+        <MATERIA codi="2238437" curs="95" descripcio="Música-ABC-4E-4E" curta="MUS-ABC-4E" departament="" />
+        <MATERIA codi="2238440" curs="95" descripcio="Primera llengua estrangera - Anglès-A-4E" curta="ANG-A-4E" departament="" />
+        <MATERIA codi="2333552" curs="95" descripcio="Primera llengua estrangera - Anglès-A1-4E" curta="ANG-A1-4E" departament="" />
+        <MATERIA codi="2333553" curs="95" descripcio="Primera llengua estrangera - Anglès-A2-4E" curta="ANG-A2-4E" departament="" />
+        <MATERIA codi="2238441" curs="95" descripcio="Primera llengua estrangera - Anglès-B-4E" curta="ANG-B-4E" departament="" />
+        <MATERIA codi="2333554" curs="95" descripcio="Primera llengua estrangera - Anglès-B1-4E" curta="ANG-B1-4E" departament="" />
+        <MATERIA codi="2333555" curs="95" descripcio="Primera llengua estrangera - Anglès-B2-4E" curta="ANG-B2-4E" departament="" />
+        <MATERIA codi="2238442" curs="95" descripcio="Primera llengua estrangera - Anglès-C-4E" curta="ANG-C-4E" departament="" />
+        <MATERIA codi="2238559" curs="95" descripcio="Primera llengua estrangera - Anglès-C1 PRAQ-4E" curta="ANG-C1-4E" departament="" />
+        <MATERIA codi="2333558" curs="95" descripcio="Primera llengua estrangera - Anglès-C2-4E" curta="ANG-C2-4E" departament="" />
+        <MATERIA codi="2238444" curs="95" descripcio="Religió catòlica-A-4E-4E" curta="RCA-A-4E" departament="" />
+        <MATERIA codi="2275497" curs="95" descripcio="Religió catòlica-BC-4E-4E" curta="RCA-BC-4E" departament="" />
+        <MATERIA codi="2238446" curs="95" descripcio="Religió islàmica-A-4E" curta="RIS-A-4E" departament="" />
+        <MATERIA codi="2238447" curs="95" descripcio="Religió islàmica-B-4E" curta="RIS-B-4E" departament="" />
+        <MATERIA codi="2238448" curs="95" descripcio="Religió islàmica-C-4E" curta="RIS-C-4E" departament="" />
+        <MATERIA codi="2238449" curs="95" descripcio="Segona llengua estrangera - Alemany-ABC-4E" curta="ALM-ABC-4E" departament="" />
+        <MATERIA codi="2238452" curs="95" descripcio="Segona llengua estrangera - Francès-ABC-4E" curta="FRA-ABC-4E" departament="" />
+        <MATERIA codi="2238456" curs="95" descripcio="Tecnologia-BC-4E" curta="TEC-BC-4E" departament="" />
+        <MATERIA codi="2238458" curs="95" descripcio="Tecnologies de la informació i la comunicació-ABC-4E" curta="TIC-ABC-4E" departament="" />
+        <MATERIA codi="2238461" curs="95" descripcio="Tutoria-A-4E-4E" curta="TUT-A-4E" departament="" />
+        <MATERIA codi="2238462" curs="95" descripcio="Tutoria-B-4E-4E" curta="TUT-B-4E" departament="" />
+        <MATERIA codi="2238560" curs="95" descripcio="Tutoria-C1-4E-PRAQ-4E" curta="TUT-C1-4E" departament="" />
+        <MATERIA codi="2238463" curs="95" descripcio="Tutoria-C-4E-4E" curta="TUT-C-4E" departament="" />
+        <MATERIA codi="2238464" curs="95" descripcio="Valors ètics-A-4E-4E" curta="VET-A-4E" departament="" />
+        <MATERIA codi="2238465" curs="95" descripcio="Valors ètics-BC-4E-4E" curta="VET-BC-4E" departament="" />
+        <MATERIA codi="2238170" curs="563" descripcio="Científic i matemàtic (PMAR)-P-2E" curta="ACM-P-2E" departament="" />
+        <MATERIA codi="2238171" curs="563" descripcio="Educació física-A-2E" curta="EDF-A-2E" departament="" />
+        <MATERIA codi="2238172" curs="563" descripcio="Educació física-B-2E" curta="EDF-B-2E" departament="" />
+        <MATERIA codi="2238173" curs="563" descripcio="Educació física-C-2E" curta="EDF-C-2E" departament="" />
+        <MATERIA codi="2238174" curs="563" descripcio="Educació física-D-2E" curta="EDF-D-2E" departament="" />
+        <MATERIA codi="2238175" curs="563" descripcio="Educació física-P-2E" curta="EDF-P-2E" departament="" />
+        <MATERIA codi="2238176" curs="563" descripcio="Educació plàstica, visual i audiovisual II-ABCD-2E-2E" curta="PLA-ABCD-2E" departament="" />
+        <MATERIA codi="2238181" curs="563" descripcio="Física i química-A-2E" curta="FIQ-A-2E" departament="" />
+        <MATERIA codi="2238182" curs="563" descripcio="Física i química-B-2E" curta="FIQ-B-2E" departament="" />
+        <MATERIA codi="2238183" curs="563" descripcio="Física i química-C-2E" curta="FIQ-C-2E" departament="" />
+        <MATERIA codi="2238184" curs="563" descripcio="Física i química-D-2E" curta="FIQ-D-2E" departament="" />
+        <MATERIA codi="2238186" curs="563" descripcio="Geografia i història-A-2E" curta="GEO-A-2E" departament="" />
+        <MATERIA codi="2238187" curs="563" descripcio="Geografia i història-B-2E" curta="GEO-B-2E" departament="" />
+        <MATERIA codi="2238188" curs="563" descripcio="Geografia i història-C-2E" curta="GEO-C-2E" departament="" />
+        <MATERIA codi="2238189" curs="563" descripcio="Geografia i història-D-2E" curta="GEO-D-2E" departament="" />
+        <MATERIA codi="2238195" curs="563" descripcio="Lingüístic i social (PMAR)-P-2E" curta="ALS-P-2E" departament="" />
+        <MATERIA codi="2238196" curs="563" descripcio="Llengua castellana i literatura-A-2E" curta="CAS-A-1E-2E" departament="" />
+        <MATERIA codi="2238197" curs="563" descripcio="Llengua castellana i literatura-B-2E" curta="CAS-B-2E" departament="" />
+        <MATERIA codi="2238198" curs="563" descripcio="Llengua castellana i literatura-C-2E" curta="CAS-C-2E" departament="" />
+        <MATERIA codi="2238199" curs="563" descripcio="Llengua castellana i literatura-D-2E-2E" curta="CAS-D-2E" departament="" />
+        <MATERIA codi="2238201" curs="563" descripcio="Llengua catalana i literatura-A-2E" curta="CAT-A-2E" departament="" />
+        <MATERIA codi="2238202" curs="563" descripcio="Llengua catalana i literatura-B-2E" curta="CAT-B-2E" departament="" />
+        <MATERIA codi="2238203" curs="563" descripcio="Llengua catalana i literatura-C-2E" curta="CAT-C-2E" departament="" />
+        <MATERIA codi="2238204" curs="563" descripcio="Llengua catalana i literatura-D-2E" curta="CAT-D-2E" departament="" />
+        <MATERIA codi="2238210" curs="563" descripcio="Llengües estrangeres (PMAR)-P-2E" curta="ANG-P-2E" departament="" />
+        <MATERIA codi="2238211" curs="563" descripcio="Matemàtiques-A-2E-2E" curta="MAT-A-2E" departament="" />
+        <MATERIA codi="2238212" curs="563" descripcio="Matemàtiques-B-2E-2E" curta="MAT-B-2E" departament="" />
+        <MATERIA codi="2238213" curs="563" descripcio="Matemàtiques-C-2E-2E" curta="MAT-C-2E" departament="" />
+        <MATERIA codi="2238214" curs="563" descripcio="Matemàtiques-D-2E-2E" curta="MAT-D-2E" departament="" />
+        <MATERIA codi="2238216" curs="563" descripcio="Música II-ABCD-2E-2E" curta="MUS-ABCD-2E" departament="" />
+        <MATERIA codi="2238225" curs="563" descripcio="Pràctic (PMAR)-P-2E" curta="AMP-P-2E" departament="" />
+        <MATERIA codi="2238226" curs="563" descripcio="Primera llengua estrangera - Anglès-A-2E" curta="ANG-A-2E" departament="" />
+        <MATERIA codi="2333537" curs="563" descripcio="Primera llengua estrangera - Anglès-A1-2E" curta="ANG-A1-2E" departament="" />
+        <MATERIA codi="2333541" curs="563" descripcio="Primera llengua estrangera - Anglès-A2-2E" curta="ANG-A2-2E" departament="" />
+        <MATERIA codi="2238227" curs="563" descripcio="Primera llengua estrangera - Anglès-B-2E" curta="ANG-B-2E" departament="" />
+        <MATERIA codi="2333539" curs="563" descripcio="Primera llengua estrangera - Anglès-B1-2E" curta="ANG-B1-2E" departament="" />
+        <MATERIA codi="2333540" curs="563" descripcio="Primera llengua estrangera - Anglès-B2-2E" curta="ANG-B2-2E" departament="" />
+        <MATERIA codi="2238228" curs="563" descripcio="Primera llengua estrangera - Anglès-C-2E" curta="ANG-C-2E" departament="" />
+        <MATERIA codi="2333542" curs="563" descripcio="Primera llengua estrangera - Anglès-C1-2E" curta="ANG-C1-2E" departament="" />
+        <MATERIA codi="2333543" curs="563" descripcio="Primera llengua estrangera - Anglès-C2-2E" curta="ANG-C2-2E" departament="" />
+        <MATERIA codi="2238229" curs="563" descripcio="Primera llengua estrangera - Anglès-D-2E" curta="ANG-D-2E" departament="" />
+        <MATERIA codi="2333544" curs="563" descripcio="Primera llengua estrangera - Anglès-D1-2E" curta="ANG-D1-2E" departament="" />
+        <MATERIA codi="2333545" curs="563" descripcio="Primera llengua estrangera - Anglès-D2-2E" curta="ANG-D2-2E" departament="" />
+        <MATERIA codi="2238231" curs="563" descripcio="Projecte interdisciplinari-A-2E" curta="PRJ-A-2E" departament="" />
+        <MATERIA codi="2238232" curs="563" descripcio="Projecte interdisciplinari-B-2E" curta="PRJ-B-2E" departament="" />
+        <MATERIA codi="2238233" curs="563" descripcio="Projecte interdisciplinari-C-2E" curta="PRJ-C-2E" departament="" />
+        <MATERIA codi="2238234" curs="563" descripcio="Projecte interdisciplinari-D-2E" curta="PRJ-D-2E" departament="" />
+        <MATERIA codi="2238236" curs="563" descripcio="Religió catòlica-CDP-2E" curta="RCA-CDP-2E" departament="" />
+        <MATERIA codi="2238241" curs="563" descripcio="Religió islàmica-A-2E" curta="RIS-A-2E" departament="" />
+        <MATERIA codi="2238242" curs="563" descripcio="Religió islàmica-B-2E" curta="RIS-B-2E" departament="" />
+        <MATERIA codi="2238243" curs="563" descripcio="Religió islàmica-C-2E" curta="RIS-C-2E" departament="" />
+        <MATERIA codi="2238244" curs="563" descripcio="Religió islàmica-D-2E" curta="RIS-D-2E" departament="" />
+        <MATERIA codi="2238245" curs="563" descripcio="Religió islàmica-P-2E" curta="RIS-P-2E" departament="" />
+        <MATERIA codi="2238246" curs="563" descripcio="Segona llengua estrangera - Alemany-ABCD-2E" curta="ALM-ABCD-2E" departament="" />
+        <MATERIA codi="2238251" curs="563" descripcio="Segona llengua estrangera - Francès-ABCD-2E" curta="FRA-ABCD-2E" departament="" />
+        <MATERIA codi="2238256" curs="563" descripcio="Tecnologia I-A-2E-2E" curta="TEC-A-2E" departament="" />
+        <MATERIA codi="2238257" curs="563" descripcio="Tecnologia I-B-2E-2E" curta="TEC-B-2E" departament="" />
+        <MATERIA codi="2238258" curs="563" descripcio="Tecnologia I-C-2E-2E" curta="TEC-C-2E" departament="" />
+        <MATERIA codi="2238259" curs="563" descripcio="Tecnologia I-D-2E-2E" curta="TEC-D-2E-2E" departament="" />
+        <MATERIA codi="2238261" curs="563" descripcio="Tutoria-A-2E-2E" curta="TUT-A-2E" departament="" />
+        <MATERIA codi="2238262" curs="563" descripcio="Tutoria-B-2E-2E" curta="TUT-B-2E" departament="" />
+        <MATERIA codi="2238263" curs="563" descripcio="Tutoria-C-2E-2E" curta="TUT-C-2E" departament="" />
+        <MATERIA codi="2238264" curs="563" descripcio="Tutoria-D-2E-2E" curta="TUT-D-2E" departament="" />
+        <MATERIA codi="2238265" curs="563" descripcio="Tutoria-P-2E-2E" curta="TUT-P-2E" departament="" />
+        <MATERIA codi="2238266" curs="563" descripcio="Valors ètics-A-2E-2E" curta="VET-A-2E" departament="" />
+        <MATERIA codi="2238267" curs="563" descripcio="Valors ètics-B-2E-2E" curta="VET-B-2E" departament="" />
+        <MATERIA codi="2238268" curs="563" descripcio="Valors ètics-CD-2E-2E" curta="VET-CD-2E" departament="" />
+        <MATERIA codi="2238270" curs="563" descripcio="Valors ètics-P-2E-2E" curta="VET-P-2E" departament="" />
+        <MATERIA codi="2238503" curs="7051" descripcio="Administració de sistemes gestors de bases de dades-AIFC31" curta="Adm. sist. gestors BBDD-AIFC31" departament="" />
+        <MATERIA codi="2238504" curs="7051" descripcio="Administració de sistemes gestors de bases de dades-BIFC31" curta="Adm. sist. gestors BBDD-BIFC31" departament="" />
+        <MATERIA codi="2238505" curs="7051" descripcio="Administració de sistemes gestors de bases de dades-CIFC31" curta="Adm. sist. gestors BBDD-CIFC31" departament="" />
+        <MATERIA codi="2238506" curs="7051" descripcio="Administració de sistemes operatius-AIFC31" curta="Adm. sistemes operatius-AIFC31" departament="" />
+        <MATERIA codi="2238507" curs="7051" descripcio="Administració de sistemes operatius-BIFC31" curta="Adm. sistemes operatius-BIFC31" departament="" />
+        <MATERIA codi="2238508" curs="7051" descripcio="Administració de sistemes operatius-CIFC31" curta="Adm. sistemes operatius-CIFC31" departament="" />
+        <MATERIA codi="2238509" curs="7051" descripcio="Empresa i iniciativa emprenedora-AIFC31" curta="EIE-AIFC31" departament="" />
+        <MATERIA codi="2238510" curs="7051" descripcio="Empresa i iniciativa emprenedora-BIFC31" curta="EIE-BIFC31" departament="" />
+        <MATERIA codi="2238511" curs="7051" descripcio="Empresa i iniciativa emprenedora-CIFC31" curta="EIE-CIFC31" departament="" />
+        <MATERIA codi="2238512" curs="7051" descripcio="Fonaments de maquinari-AIFC31" curta="Fonaments de maquinari-AIFC31" departament="" />
+        <MATERIA codi="2238513" curs="7051" descripcio="Fonaments de maquinari-BIFC31" curta="Fonaments de maquinari-BIFC31" departament="" />
+        <MATERIA codi="2238514" curs="7051" descripcio="Fonaments de maquinari-CIFC31" curta="Fonaments de maquinari-CIFC31" departament="" />
+        <MATERIA codi="2238515" curs="7051" descripcio="Formació en centres de treball-AIFC31" curta="FCT-AIFC31" departament="" />
+        <MATERIA codi="2238516" curs="7051" descripcio="Formació en centres de treball-BIFC31" curta="FCT-BIFC31" departament="" />
+        <MATERIA codi="2238517" curs="7051" descripcio="Formació en centres de treball-CIFC31" curta="FCT-CIFC31" departament="" />
+        <MATERIA codi="2238518" curs="7051" descripcio="Formació i orientació laboral-AIFC31" curta="FOL-AIFC31" departament="" />
+        <MATERIA codi="2238519" curs="7051" descripcio="Formació i orientació laboral-BIFC31" curta="FOL-BIFC31" departament="" />
+        <MATERIA codi="2238520" curs="7051" descripcio="Formació i orientació laboral-CIFC31" curta="FOL-CIFC31" departament="" />
+        <MATERIA codi="2238521" curs="7051" descripcio="Gestió de bases de dades-AIFC31" curta="Gestió de bases de dades-AIFC31" departament="" />
+        <MATERIA codi="2238522" curs="7051" descripcio="Gestió de bases de dades-BIFC31" curta="Gestió de bases de dades-BIFC31" departament="" />
+        <MATERIA codi="2238523" curs="7051" descripcio="Gestió de bases de dades-CIFC31" curta="Gestió de bases de dades-CIFC31" departament="" />
+        <MATERIA codi="2238524" curs="7051" descripcio="Implantació d'aplicacions web-AIFC31" curta="Implantació aplicacions web-AIFC31" departament="" />
+        <MATERIA codi="2238525" curs="7051" descripcio="Implantació d'aplicacions web-BIFC31" curta="Implantació aplicacions web-BIFC31" departament="" />
+        <MATERIA codi="2238526" curs="7051" descripcio="Implantació d'aplicacions web-CIFC31" curta="Implantació aplicacions web-CIFC31" departament="" />
+        <MATERIA codi="2238527" curs="7051" descripcio="Implantació de sistemes operatius-AIFC31" curta="Imp. sistemes operatius-AIFC31" departament="" />
+        <MATERIA codi="2238528" curs="7051" descripcio="Implantació de sistemes operatius-BIFC31" curta="Imp. sistemes operatius-BIFC31" departament="" />
+        <MATERIA codi="2238529" curs="7051" descripcio="Implantació de sistemes operatius-CIFC31" curta="Imp. sistemes operatius-CIFC31" departament="" />
+        <MATERIA codi="2238530" curs="7051" descripcio="Llenguatges de marca i sistemes de gestió d'informació-AIFC31" curta="Lleng. marca sist. gest. inf.-AIFC31" departament="" />
+        <MATERIA codi="2238531" curs="7051" descripcio="Llenguatges de marca i sistemes de gestió d'informació-BIFC31" curta="Lleng. marca sist. gest. inf.-BIFC31" departament="" />
+        <MATERIA codi="2238532" curs="7051" descripcio="Llenguatges de marca i sistemes de gestió d'informació-CIFC31" curta="Lleng. marca sist. gest. inf.-CIFC31" departament="" />
+        <MATERIA codi="2238533" curs="7051" descripcio="Planificació i administració de xarxes-AIFC31" curta="Planif. adm. xarxes-AIFC31" departament="" />
+        <MATERIA codi="2238534" curs="7051" descripcio="Planificació i administració de xarxes-BIFC31" curta="Planif. adm. xarxes-BIFC31" departament="" />
+        <MATERIA codi="2238535" curs="7051" descripcio="Planificació i administració de xarxes-CIFC31" curta="Planif. adm. xarxes-CIFC31" departament="" />
+        <MATERIA codi="2238536" curs="7051" descripcio="Projecte d'administració de sistemes informàtics en xarxa-AIFC31" curta="Proj. adm. sist. inform. xarxa-AIFC31" departament="" />
+        <MATERIA codi="2238537" curs="7051" descripcio="Projecte d'administració de sistemes informàtics en xarxa-BIFC31" curta="Proj. adm. sist. inform. xarxa-BIFC31" departament="" />
+        <MATERIA codi="2238538" curs="7051" descripcio="Projecte d'administració de sistemes informàtics en xarxa-CIFC31" curta="Proj. adm. sist. inform. xarxa-CIFC31" departament="" />
+        <MATERIA codi="2238539" curs="7051" descripcio="Seguretat i alta disponibilitat-AIFC31" curta="Seguretat alta disponibilitat-AIFC31" departament="" />
+        <MATERIA codi="2238540" curs="7051" descripcio="Seguretat i alta disponibilitat-BIFC31" curta="Seguretat alta disponibilitat-BIFC31" departament="" />
+        <MATERIA codi="2238541" curs="7051" descripcio="Seguretat i alta disponibilitat-CIFC31" curta="Seguretat alta disponibilitat-CIFC31" departament="" />
+        <MATERIA codi="2238542" curs="7051" descripcio="Serveis de xarxa i internet-AIFC31" curta="Serveis de xarxa i internet-AIFC31" departament="" />
+        <MATERIA codi="2238543" curs="7051" descripcio="Serveis de xarxa i internet-BIFC31" curta="Serveis de xarxa i internet-BIFC31" departament="" />
+        <MATERIA codi="2238544" curs="7051" descripcio="Serveis de xarxa i internet-CIFC31" curta="Serveis de xarxa i internet-CIFC31" departament="" />
+        <MATERIA codi="2238545" curs="7051" descripcio="Tutoria-AIFC31" curta="TUT-AIFC31" departament="" />
+        <MATERIA codi="2238546" curs="7051" descripcio="Tutoria-BIFC31" curta="TUT-BIFC31" departament="" />
+        <MATERIA codi="2238547" curs="7051" descripcio="Tutoria-CIFC31" curta="TUT-CIFC31" departament="" />
+        <MATERIA codi="2238467" curs="7837" descripcio="Aplicacions ofimàtiques-AIFC21" curta="Aplicacions ofimàtiques-AIFC21" departament="" />
+        <MATERIA codi="2238468" curs="7837" descripcio="Aplicacions ofimàtiques-BIFC21" curta="Aplicacions ofimàtiques-BIFC21" departament="" />
+        <MATERIA codi="2238469" curs="7837" descripcio="Aplicacions ofimàtiques-CIFC21" curta="Aplicacions ofimàtiques-CIFC21" departament="" />
+        <MATERIA codi="2238473" curs="7837" descripcio="Empresa i iniciativa emprenedora-AIFC21" curta="EIE-AIFC21" departament="" />
+        <MATERIA codi="2238474" curs="7837" descripcio="Empresa i iniciativa emprenedora-BIFC21" curta="EIE-BIFC21" departament="" />
+        <MATERIA codi="2238475" curs="7837" descripcio="Empresa i iniciativa emprenedora-CIFC21" curta="EIE-CIFC21" departament="" />
+        <MATERIA codi="2238476" curs="7837" descripcio="Formació en centres de treball-AIFC21" curta="FCT-AIFC21" departament="" />
+        <MATERIA codi="2238477" curs="7837" descripcio="Formació en centres de treball-BIFC21" curta="FCT-BIFC21" departament="" />
+        <MATERIA codi="2238478" curs="7837" descripcio="Formació en centres de treball-CIFC21" curta="FCT-CIFC21" departament="" />
+        <MATERIA codi="2238479" curs="7837" descripcio="Formació i orientació laboral-AIFC21" curta="FOL-AIFC21" departament="" />
+        <MATERIA codi="2238480" curs="7837" descripcio="Formació i orientació laboral-BIFC21" curta="FOL-BIFC21" departament="" />
+        <MATERIA codi="2238481" curs="7837" descripcio="Formació i orientació laboral-CIFC21" curta="FOL-CIFC21" departament="" />
+        <MATERIA codi="2238482" curs="7837" descripcio="Muntatge i manteniment d'equip-AIFC21" curta="Munt. i mant. eq.-AIFC21" departament="" />
+        <MATERIA codi="2238483" curs="7837" descripcio="Muntatge i manteniment d'equip-BIFC21" curta="Munt. i mant. eq.-BIFC21" departament="" />
+        <MATERIA codi="2238484" curs="7837" descripcio="Muntatge i manteniment d'equip-CIFC21" curta="Munt. i mant. eq.-CIFC21" departament="" />
+        <MATERIA codi="2238485" curs="7837" descripcio="Seguretat informàtica-AIFC21" curta="Seguretat informàtica-AIFC21" departament="" />
+        <MATERIA codi="2238486" curs="7837" descripcio="Seguretat informàtica-BIFC21" curta="Seguretat informàtica-BIFC21" departament="" />
+        <MATERIA codi="2238487" curs="7837" descripcio="Seguretat informàtica-CIFC21" curta="Seguretat informàtica-CIFC21" departament="" />
+        <MATERIA codi="2238488" curs="7837" descripcio="Serveis en xarxa-AIFC21" curta="Serveis en xarxa-AIFC21" departament="" />
+        <MATERIA codi="2238489" curs="7837" descripcio="Serveis en xarxa-BIFC21" curta="Serveis en xarxa-BIFC21" departament="" />
+        <MATERIA codi="2238490" curs="7837" descripcio="Serveis en xarxa-CIFC21" curta="Serveis en xarxa-CIFC21" departament="" />
+        <MATERIA codi="2238491" curs="7837" descripcio="Sistemes operatius en xarxa-AIFC21" curta="Sist. op. xarxa-AIFC21" departament="" />
+        <MATERIA codi="2238492" curs="7837" descripcio="Sistemes operatius en xarxa-BIFC21" curta="Sist. op. xarxa-BIFC21" departament="" />
+        <MATERIA codi="2238493" curs="7837" descripcio="Sistemes operatius en xarxa-CIFC21" curta="Sist. op. xarxa-CIFC21" departament="" />
+        <MATERIA codi="2238494" curs="7837" descripcio="Sistemes operatius monoestació-AIFC21" curta="Sist. op. monoestació-AIFC21" departament="" />
+        <MATERIA codi="2238495" curs="7837" descripcio="Sistemes operatius monoestació-BIFC21" curta="Sist. op. monoestació-BIFC21" departament="" />
+        <MATERIA codi="2238496" curs="7837" descripcio="Sistemes operatius monoestació-CIFC21" curta="Sist. op. monoestació-CIFC21" departament="" />
+        <MATERIA codi="2238497" curs="7837" descripcio="Tutoria-AIFC21" curta="TUT-AIFC21" departament="" />
+        <MATERIA codi="2238498" curs="7837" descripcio="Tutoria-BIFC21" curta="TUT-BIFC21" departament="" />
+        <MATERIA codi="2238499" curs="7837" descripcio="Tutoria-CIFC21" curta="TUT-CIFC21" departament="" />
+        <MATERIA codi="2238500" curs="7837" descripcio="Xarxes locals-AIFC21" curta="Xarxes locals-AIFC21" departament="" />
+        <MATERIA codi="2238501" curs="7837" descripcio="Xarxes locals-BIFC21" curta="Xarxes locals-BIFC21" departament="" />
+        <MATERIA codi="2238502" curs="7837" descripcio="Xarxes locals-CIFC21" curta="Xarxes locals-CIFC21" departament="" />
+    </MATERIES>
+    <ACTIVITATS>
+        <ACTIVITAT codi="40" descripcio="Altres activitats complementàries" curta="Altres activitats complement." />
+        <ACTIVITAT codi="38" descripcio="*Assistència a CCP (IES)" curta="*Assistència a CCP" />
+        <ACTIVITAT codi="31" descripcio="Atenció a pares, mares, tutors legals o alumnes majors d'edat" curta="Atenció responsables alumnes" />
+        <ACTIVITAT codi="75" descripcio="Compensació hores lectives (CHL)" curta="CHL" />
+        <ACTIVITAT codi="3" descripcio="*Dedicació a cap de departament" curta="*Dedicació al departament" />
+        <ACTIVITAT codi="4" descripcio="*Dedicació a cap de família professional" curta="*Dedicació família professional" />
+        <ACTIVITAT codi="44" descripcio="Dedicació a coordinació" curta="Coordinació" />
+        <ACTIVITAT codi="64" descripcio="*Dedicació a coordinació" curta="*Coordinació" />
+        <ACTIVITAT codi="8" descripcio="*Dedicació a direcció" curta="*Direcció" />
+        <ACTIVITAT codi="156" descripcio="*Dedicació a formació ocupacional" curta="*Formació ocupacional" />
+        <ACTIVITAT codi="63" descripcio="*Dedicació a orientació" curta="*Orientació" />
+        <ACTIVITAT codi="46" descripcio="Dedicació a orientació" curta="Orientació" />
+        <ACTIVITAT codi="10" descripcio="*Dedicació a prefectura d'estudis" curta="*Dedicació prefectura d'estudis" />
+        <ACTIVITAT codi="9" descripcio="*Dedicació a secretaria" curta="*Secretaria" />
+        <ACTIVITAT codi="65" descripcio="*Dedicació a subdepartament" curta="*Dedicació a subdepartament" />
+        <ACTIVITAT codi="82" descripcio="Dedicació al programa EOIES" curta="Programa EOIES" />
+        <ACTIVITAT codi="81" descripcio="*Dedicació al programa EOIES" curta="*Programa EOIES" />
+        <ACTIVITAT codi="21" descripcio="Despatx i reunions de l'equip directiu" curta="Dedicació equip directiu" />
+        <ACTIVITAT codi="18" descripcio="Guàrdia" curta="Guàrdia" />
+        <ACTIVITAT codi="19" descripcio="Guàrdia de biblioteca" curta="Guàrdia de biblioteca" />
+        <ACTIVITAT codi="30" descripcio="Guàrdia de pati" curta="Guàrdia de pati" />
+        <ACTIVITAT codi="53" descripcio="*Hores de docència al PALIC (IES)" curta="*H. de docència al PALIC" />
+        <ACTIVITAT codi="2" descripcio="*Hores dedicades a reforç i ampliació" curta="*Hores de reforç a l'alumnat" />
+        <ACTIVITAT codi="56" descripcio="*Hores desdoblaments de grups" curta="*Hores desdoblaments de grups" />
+        <ACTIVITAT codi="51" descripcio="Majors de 55 anys" curta="Majors de 55 anys" />
+        <ACTIVITAT codi="17" descripcio="*Majors de 55 anys" curta="*Majors de 55 anys" />
+        <ACTIVITAT codi="47" descripcio="Manteniment de les aules específiques" curta="Mant. aules específiques" />
+        <ACTIVITAT codi="26" descripcio="Participació en projectes institucionals" curta="Projectes institucionals" />
+        <ACTIVITAT codi="79" descripcio="*Preparació de mòdul impartit en anglès (FP)" curta="*Preparació mòdul en anglès (FP)" />
+        <ACTIVITAT codi="6" descripcio="Preparació de pràctiques (Arts)" curta="Preparació de pràctiques" />
+        <ACTIVITAT codi="33" descripcio="Programació d'activitats d'aula (Infantil i Primària)" curta="Programació activitats d'aula" />
+        <ACTIVITAT codi="49" descripcio="*Realització de projectes de recerca" curta="*Projectes de recerca" />
+        <ACTIVITAT codi="67" descripcio="*Reducció per itineràncies" curta="*Itinerant" />
+        <ACTIVITAT codi="5" descripcio="Reducció per itineràncies" curta="Itinerant" />
+        <ACTIVITAT codi="68" descripcio="Reducció retribuïda per conciliació de la vida familiar i laboral" curta="Conciliació vida laboral i Fam" />
+        <ACTIVITAT codi="24" descripcio="Representació en el CEP" curta="Repres. prof. CEP" />
+        <ACTIVITAT codi="23" descripcio="Representació en el Consell Escolar" curta="Repres. prof. consell escolar" />
+        <ACTIVITAT codi="20" descripcio="Reunió de departament" curta="Reunió departament" />
+        <ACTIVITAT codi="35" descripcio="Reunió de tutors" curta="Reunió de tutors" />
+        <ACTIVITAT codi="32" descripcio="Reunions coordinació docent" curta="Reunions coordinació docent" />
+        <ACTIVITAT codi="57" descripcio="Seguiment alumnat PISE" curta="Seguiment alumnat PISE" />
+        <ACTIVITAT codi="22" descripcio="Tutoria" curta="Tutoria" />
+        <ACTIVITAT codi="62" descripcio="*Tutoria" curta="*Tutoria" />
+        <ACTIVITAT codi="74" descripcio="Tutoria de pràctiques (Arts)" curta="Tutoria de pràctiques (Arts)" />
+        <ACTIVITAT codi="48" descripcio="*Tutoria de pràctiques (Arts)" curta="*Tutoria de pràctiques (Arts)" />
+        <ACTIVITAT codi="25" descripcio="Tutoria de professors en pràctiques" curta="Tutor prof. en pràctiques" />
+        <ACTIVITAT codi="73" descripcio="*Tutoria de projecte/obra final (Arts)" curta="*Tutoria de projecte/obra final" />
+        <ACTIVITAT codi="45" descripcio="*Tutoria FCT" curta="*Tutoria FCT" />
+        <ACTIVITAT codi="72" descripcio="Tutoria FCT" curta="Tutoria FCT" />
+        <ACTIVITAT codi="155" descripcio="Tutoria FCT (no presencial)" curta="Tutoria FCT (no presencial)" />
+        <ACTIVITAT codi="66" descripcio="*Vigilància a l'hora de l'esplai (Infantil , Primària i EEB)" curta="*Vigilància d'esplai" />
+    </ACTIVITATS>
+    <AULES>
+        <AULA codi="64680" descripcio="Banys amb contenidors" />
+        <AULA codi="35852" descripcio="Banys. Superfície total." />
+        <AULA codi="2710" descripcio="BIB" />
+        <AULA codi="35831" descripcio="Consergeria" />
+        <AULA codi="35832" descripcio="Departament Orientació" />
+        <AULA codi="35833" descripcio="Departament Tecnologia" />
+        <AULA codi="35818" descripcio="Departaments" />
+        <AULA codi="35834" descripcio="Despatx Direcció" />
+        <AULA codi="35837" descripcio="Despatx Orientadora" />
+        <AULA codi="35835" descripcio="Despatx Prefectura" />
+        <AULA codi="35836" descripcio="Despatx Secretària" />
+        <AULA codi="35838" descripcio="Distribuidor Despatxos" />
+        <AULA codi="35840" descripcio="Entrada (exterior)" />
+        <AULA codi="35841" descripcio="Estacionament" />
+        <AULA codi="35839" descripcio="Farmaciola" />
+        <AULA codi="35844" descripcio="Magatzem Informàtica" />
+        <AULA codi="35846" descripcio="Magatzem Netetja" />
+        <AULA codi="35845" descripcio="Magatzem Tecnologia" />
+        <AULA codi="35850" descripcio="Oficines" />
+        <AULA codi="35847" descripcio="Passadissos Planta Baixa" />
+        <AULA codi="35848" descripcio="Passadissos 1r Pis" />
+        <AULA codi="35849" descripcio="Passadissos 2n Pis" />
+        <AULA codi="2715" descripcio="Pati porxo" />
+        <AULA codi="2705" descripcio="PL1" />
+        <AULA codi="2714" descripcio="PT1 voleibol" />
+        <AULA codi="2737" descripcio="PT2 Altres pistes" />
+        <AULA codi="2706" descripcio="SAC" />
+        <AULA codi="35819" descripcio="Sala Professorat" />
+        <AULA codi="35851" descripcio="Sala Visites" />
+        <AULA codi="35843" descripcio="Vestíbul" />
+        <AULA codi="35830" descripcio="Vestíbul  direcció" />
+        <AULA codi="35842" descripcio="Vestuaris." />
+        <AULA codi="64671" descripcio="Vidres  amb lames exteriors." />
+        <AULA codi="64675" descripcio="Vidres interior aula" />
+        <AULA codi="64673" descripcio="Vidres interior aula" />
+        <AULA codi="64676" descripcio="Vidres interiors passadís" />
+        <AULA codi="64672" descripcio="Vidres interiors passadís" />
+        <AULA codi="64697" descripcio="Vidres interiors. Planta baixa" />
+        <AULA codi="64677" descripcio="Vidres porta accés aules" />
+        <AULA codi="64674" descripcio="Vidres porta accés aules" />
+        <AULA codi="64678" descripcio="Vidres portes d'accés edifici" />
+        <AULA codi="64679" descripcio="Vivenda" />
+        <AULA codi="2716" descripcio="0-01 (PLA)" />
+        <AULA codi="2718" descripcio="0-02(PLA)" />
+        <AULA codi="2727" descripcio="0-03 (TEC)" />
+        <AULA codi="2720" descripcio="0-04 (TEC)" />
+        <AULA codi="2700" descripcio="1-01" />
+        <AULA codi="2701" descripcio="1-02" />
+        <AULA codi="2724" descripcio="1-03" />
+        <AULA codi="2717" descripcio="1-04A (LAB)" />
+        <AULA codi="2734" descripcio="1-04B (LAB)" />
+        <AULA codi="2703" descripcio="1-05" />
+        <AULA codi="2728" descripcio="1-06" />
+        <AULA codi="2713" descripcio="1-07" />
+        <AULA codi="2736" descripcio="1-08" />
+        <AULA codi="2704" descripcio="1-09" />
+        <AULA codi="2711" descripcio="1-10 (MUS)" />
+        <AULA codi="2732" descripcio="1-11" />
+        <AULA codi="2702" descripcio="1-12" />
+        <AULA codi="2735" descripcio="2-01" />
+        <AULA codi="2721" descripcio="2-02" />
+        <AULA codi="2730" descripcio="2-03" />
+        <AULA codi="2707" descripcio="2-04" />
+        <AULA codi="2722" descripcio="2-05" />
+        <AULA codi="2709" descripcio="2-06" />
+        <AULA codi="2726" descripcio="2-07 (INF)" />
+        <AULA codi="2731" descripcio="2-08 (INF)" />
+        <AULA codi="2725" descripcio="2-09 (INF)" />
+        <AULA codi="2712" descripcio="2-10" />
+        <AULA codi="2729" descripcio="2-11" />
+        <AULA codi="2708" descripcio="2-12" />
+    </AULES>
+</CENTRE>
